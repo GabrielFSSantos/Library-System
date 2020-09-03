@@ -3,7 +3,7 @@
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Airport--System-blue)
 [![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Library-System)](https://github.com/GabrielFSSantos/Library-System/blob/master/LICENSE.md)
 
-> :bookmark:  Library-System é um algoritmo simples de gerenciamento de uma biblioteca, com funções básicas para administração dos livros, alunos e professores, cálculo de atrasos e multas..  <br>
+> :bookmark:  Library-System é um algoritmo simples de gerenciamento de uma biblioteca, com funções básicas para administração dos livros, alunos e professores, cálculo de atrasos e multas.  <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
 
 ## Versioning
