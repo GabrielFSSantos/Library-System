@@ -1,7 +1,7 @@
 
 # Open Source Library_System
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Library__System-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Library_System)](https://github.com/GabrielFSSantos/Library_System/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Library_System)](https://github.com/GabrielFSSantos/Library_System/blob/master/LICENSE)
 
 > :bookmark:  Library-System é um algoritmo simples de gerenciamento de uma biblioteca, com funções básicas para administração dos livros, alunos e professores, cálculo de atrasos e multas.  <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
@@ -20,7 +20,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
+[MIT License](https://github.com/GabrielFSSantos/Library_System/blob/master/LICENSE)
 
 
 
